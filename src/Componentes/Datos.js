@@ -34,5 +34,33 @@ export const data = [
 		price: 3000,
 		quantity: 1,
 	},
-	// Aquí pueden agregar más o modificar los productos existentes
+	{
+		id: 6,
+		img: 'https://media-cdn.tripadvisor.com/media/photo-m/1280/17/2b/63/fe/steak-de-cerdo-bbq-350.jpg',
+		nameProduct: 'Carne Asada',
+		price: 23000,
+		quantity: 1,
+	},
+	{
+		id: 7,
+		img: 'https://live.staticflickr.com/4108/4978104331_f9e7dafdb7_b.jpg',
+		nameProduct: 'Choripapa',
+		price: 13000,
+		quantity: 1,
+	},
+	{
+		id: 8,
+		img: 'https://triguisar.com.co/wp-content/uploads/2017/11/arepa-con-carne-desmechada.jpg',
+		nameProduct: 'Arepa con Carne',
+		price: 9000,
+		quantity: 1,
+	},
+	{
+		id: 9,
+		img: 'https://www.cocina-colombiana.com/base/stock/Recipe/296-image/296-image_web.jpg',
+		nameProduct: 'Butifarra',
+		price: 700,
+		quantity: 1,
+	},
+
 ];
