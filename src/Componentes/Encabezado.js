@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+import './Header.css'
 export const Header = ({
 	allProducts,
 	setAllProducts,
